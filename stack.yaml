@@ -1,5 +1,5 @@
 name: Node.js Express with helm
-version: 0.4.8
+version: 0.5.0
 description: Express web framework for Node.js with helm
 license: Apache-2.0
 language: nodejs
